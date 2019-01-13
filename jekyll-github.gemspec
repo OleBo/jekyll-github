@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
     s.authors = ["vrongmeal"]
 
     s.homepage = "https://github.com/vrongmeal/jekyll-github"
-    s.lisences = ["MIT"]
+    s.license = "MIT"
     s.files = ["lib/jekyll-github.rb"]
 
     s.required_ruby_version = ">= 2.3.0"
