@@ -48,7 +48,7 @@ Let's configure the plugin.
 
 You can configure the plugin either globally (in `_config.yml`) or in particular page (at the top of page between the two `---`). The settings in the page will take preference.
 
-The configuration is for defining the format string for the output of type of commands. Let's see through an example:
+The configuration is for defining the format string for the output of commands. Let's see through an example:
 
 ```yml
 jekyll-github:
